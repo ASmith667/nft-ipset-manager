@@ -1,4 +1,4 @@
-# nftables set IP 白名单管理脚本
+# nft-ipset-manager
 
 适用于 Debian 11 / Debian 12 / Debian 13 的 nftables IP/CIDR 白名单管理脚本。
 
